@@ -1,0 +1,45 @@
+html
+{
+	padding=30px;
+	font-size: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	width: 800px;
+}
+.box
+{
+	border: 1px solid;
+}
+.first
+{
+	width:50%;
+	height: 200px;
+	display: inline-block;
+}
+.second
+{
+	width: 33.33%;
+	height:300px;
+	display: inline-block;
+}
+.grey
+{
+	background-color: grey;
+}
+.green
+{
+	background-color: green;
+}
+.blue
+{
+	background-color: blue;
+}
+.black
+{
+	background-color: black;
+}
+.yellow
+{
+	background-color: yellow;
+}

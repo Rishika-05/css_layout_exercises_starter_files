@@ -32,7 +32,7 @@ nav li
 }
 nav li::after
 {
-	content: "|";
+	content: "||";
 	margin-left: 5px;
 } 
 nav a:hover
